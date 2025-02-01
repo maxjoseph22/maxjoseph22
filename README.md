@@ -62,4 +62,5 @@ Tech Stack: MongoDB, Express.js, React, Node.js
 
 ## 📫 Let's connect 📫
 [LinkedIn](https://www.linkedin.com/in/max-joseph-a29666225/)
+
 [GitHub](https://github.com/maxjoseph22)
