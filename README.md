@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 🔧 Technical Skills 🔧
+
 Front-End Development
 - React.js
 - HTML
