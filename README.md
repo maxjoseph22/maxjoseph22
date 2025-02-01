@@ -1,4 +1,4 @@
-## Hi there, I'm Max! 👋
+## 👋 Hi there, I'm Max! 👋
 
 I'm a Junior Software Engineer living in London with a unique combination of technical skills and established financial experience. I recently completed an intensive Full Stack Development Bootcamp at Makers, where I developed my knowledge in JavaScript, Python, React.js, Node.js, MongoDB, PostgreSQL, HTML, and CSS. 
 
@@ -47,17 +47,18 @@ Tools and Practices
 - Test-Driven Development (TDD)
 - Pair Programming
 
-🔭 Projects 🔭
+## 🔭 Projects 🔭
 
-Plucker: (Group Project)
+# Plucker: (Group Project)
 Tech Stack: Python, Flask, React, PostgreSQL
 
-Created a bird identification app with Flask (asynchronous capabilities using Hypercorn and asyncio).
-Integrated humorous functionality by generating random recipes for newly logged bird sightings.
-ThySpace: (Group Project)
+- Created a bird identification app with Flask (asynchronous capabilities using Hypercorn and asyncio).
+- Integrated humorous functionality by generating random recipes for newly logged bird sightings.
+
+# ThySpace: (Group Project)
 Tech Stack: MongoDB, Express.js, React, Node.js
 
-Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
+- Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
 
 📫 Let's connect 📫
 LinkedIn: linkedin.com/in/max-joseph-a29666225/
