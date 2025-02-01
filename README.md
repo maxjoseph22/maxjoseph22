@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔧 Technical Skills 🔧
+## 🔧 Technical Skills 🔧
 
 Front-End Development
 - React.js
