@@ -18,31 +18,33 @@ Here are some ideas to get you started:
 -->
 
 🔧 Technical Skills 🔧
-- Front-End Development
+Front-End Development
 - React.js
 - HTML
-CSS
+- CSS
+
 Back-End Development
-JavaScript,
-Node.js,
-Express.js,
-Python,
-SQL (PostgreSQL, MySQL),
-NoSQL (MongoDB),
-FastAPI,
-Flask
+- JavaScript
+- Node.js
+- Express.js
+- Python
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB)
+- Flask
+  
 Testing and QA Tools
-Pytest
-Jest
-Vitest
+- Pytest
+- Jest
+- Vitest
+  
 Tools and Practices
-Git
-GitHub
-Command Line
-VS Code
-Agile
-Test-Driven Development (TDD)
-Pair Programming
+- Git
+- GitHub
+- Command Line
+- VS Code
+- Agile
+- Test-Driven Development (TDD)
+- Pair Programming
 
 🔭 Projects 🔭
 
