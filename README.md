@@ -49,17 +49,18 @@ Tools and Practices
 
 ## 🔭 Projects 🔭
 
-### Plucker: (Group Project)
+### 🐦 Plucker 🐦: (Group Project)
 Tech Stack: Python, Flask, React, PostgreSQL
 
 - Created a bird identification app with Flask (asynchronous capabilities using Hypercorn and asyncio).
 - Integrated humorous functionality by generating random recipes for newly logged bird sightings.
 
-### ThySpace: (Group Project)
+### ⚔ ThySpace ⚔: (Group Project)
 Tech Stack: MongoDB, Express.js, React, Node.js
 
 - Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
 
-📫 Let's connect 📫
+## 📫 Let's connect 📫
 LinkedIn: linkedin.com/in/max-joseph-a29666225/
+
 GitHub: github.com/maxjoseph22
