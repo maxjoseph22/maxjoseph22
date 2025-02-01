@@ -61,6 +61,5 @@ Tech Stack: MongoDB, Express.js, React, Node.js
 - Built a medieval-themed social platform replicating Facebook with features like alliances, posts, comments, and likes.
 
 ## 📫 Let's connect 📫
-(LinkedIn:) [linkedin.com/in/max-joseph-a29666225/]
-
-(GitHub:) [github.com/maxjoseph22]
+[LinkedIn](https://www.linkedin.com/in/max-joseph-a29666225/)
+[GitHub](https://github.com/maxjoseph22)
