@@ -41,6 +41,7 @@ Testing and QA Tools
 Tools and Practices
 - Git
 - GitHub
+- Docker
 - Command Line
 - VS Code
 - Agile
