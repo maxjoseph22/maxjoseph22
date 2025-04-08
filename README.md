@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Max! 👋
 
-I'm a Junior Software Engineer living in London with a unique combination of technical skills and established financial experience. I recently completed an intensive Full Stack Development Bootcamp at Makers, where I developed my knowledge in JavaScript, Python, React.js, Node.js, MongoDB, PostgreSQL, HTML, and CSS. 
+I'm a Software Engineer living in London with a unique combination of technical skills and established financial experience. I recently completed an intensive Full Stack Development Bootcamp at Makers, where I developed my knowledge in JavaScript, Python, React.js, Node.js, MongoDB, PostgreSQL, HTML, and CSS. 
 
 <!--
 **maxjoseph22/maxjoseph22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
