@@ -44,6 +44,7 @@ Tools and Practices
 - Docker
 - Command Line
 - VS Code
+- Auth0
 - Agile
 - Test-Driven Development (TDD)
 - Pair Programming
